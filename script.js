@@ -1,7 +1,7 @@
 // Typewriter Effect.
 
 var typeName = document.getElementById("name");
-var myName = ["Rahul Kushwaha", "A Frontend Developer", "A Web Designer", "A Data analyst", "A Software Developer"];
+var myName = ["Rahul Kushwaha", "A Full Stack Developer"];
 let charPosition = 0;
 let textPosition = 0;
 
